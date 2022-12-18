@@ -55,6 +55,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, NetServiceDelegate, NetServi
       Resolution(1366, 768,  135, false, "11.6-inch MacBook Air"),
       Resolution(1280, 800,  113, false, "13.3-inch MacBook Pro"),
       Resolution(0, 0, 0, false,  "======== iPads ========"),
+      Resolution(2732, 2048, 264, true,  "iPad Pro 12.9‑inch (2015-2022) (hiDPI)"),
       Resolution(2732, 2048, 264, false,  "iPad Pro 12.9‑inch (2015-2022)"),
       Resolution(0, 0, 0, false,  "======== Generic ========"),
       Resolution(3840, 2400, 200, true,  "WQUXGA"),
